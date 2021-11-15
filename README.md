@@ -4,7 +4,8 @@ __An Aspiring Data Scientist__
 
 # [Project 1: Student Plagiarism Detection](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day21)
 
-<img src="https://github.com/DataPro-M/66daysofdata_NLP/blob/main/images/Day_21_1.png"  height="350"/>
+<img src="https://github.com/DataPro-M/66daysofdata_NLP/blob/main/images/Day_21_1.png?raw=true"  height="350"/>
+
 <img src="https://github.com/DataPro-M/66daysofdata_NLP/raw/main/images/Day_21_2.png"  height="350"/>
 
 > The plagiarized words are represented by the darker colored pixels.
