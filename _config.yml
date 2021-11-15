@@ -1,3 +1,7 @@
+
+theme: jekyll-theme-cayman
 title: Portfolio
 description: public evidence of my NLP skills
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
