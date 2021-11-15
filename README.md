@@ -1,7 +1,7 @@
-## DataPro Portfolio
+# DataPro Portfolio
 
 
-# [Project 1: Student Plagiarism Detection](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day21)
+## [Project 1: Student Plagiarism Detection](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day21)
 
 <img src="https://github.com/DataPro-M/66daysofdata_NLP/blob/main/images/Day_21_1.png?raw=true"  height="350"/>
 
