@@ -21,7 +21,7 @@ A higher score indicates that the work is more predicted based on the training d
 `Containment score:` a plagiarism similarity measurement
 <img src="https://github.com/DataPro-M/66daysofdata_NLP/raw/main/images/Day_22.png" /> 
 
-_**Note:** `heavy answers` are based on the source text, but heavily rephrased (and will likely be the most challenging kind of plagiarism to detect)._
+_**Note:** The most difficult type of plagiarism to identify is `heavy answers`, which are based on the original material but heavily rewritten._
 
 
 
