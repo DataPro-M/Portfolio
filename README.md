@@ -16,7 +16,13 @@ A higher score indicates that the work is more predicted based on the training d
 <img src="https://github.com/DataPro-M/66daysofdata_NLP/raw/main/images/Day_21_2.png"  height="350"/>
 
 > The plagiarized words are represented by the darker colored pixels.
-> This approach allows determining whether sections of a document have been plagiarized much easier.                 
+> This approach allows determining whether sections of a document have been plagiarized much easier.
+
+`Containment score:` a plagiarism similarity measurement
+<img src="https://github.com/DataPro-M/66daysofdata_NLP/raw/main/images/Day_22.png" /> 
+
+_**Note:** `heavy answers` are based on the source text, but heavily rephrased (and will likely be the most challenging kind of plagiarism to detect)._
+
 
 
 
