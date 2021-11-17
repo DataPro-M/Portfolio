@@ -21,6 +21,9 @@ A higher score indicates that the work is more predicted based on the training d
 `Containment score:` a plagiarism similarity measurement
 <img src="https://github.com/DataPro-M/66daysofdata_NLP/raw/main/images/Day_22.png" /> 
 
+`Longest Common Subsequence` a plagiarism similarity measurement
+<img src="https://github.com/DataPro-M/66daysofdata_NLP/raw/main/images/Day_23.png" /> 
+
 _**Note:** The most difficult type of plagiarism to identify is `heavy answers`, which are based on the original material but heavily rewritten._
 
 
