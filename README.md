@@ -82,8 +82,7 @@ Sentence embedding models (BERT) is used to `embed reviews into a vector space` 
     <b>Topic modeling results</b>
 </h3>
 
-![image](images/final_image.png)
-
+<img src="images/final_image.png" height="350"/>
 
 
 
