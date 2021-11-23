@@ -55,21 +55,33 @@ It includes 380,000 video game reviews from 46 of Steam's best-selling titles.
 * **Input:** Datasets for Steam Reviews
 * **Output:** ~ 75000 sample reviews were grouped into ten categories. 
 
-### TF-IDF 
+<h3 style='text-align: center;'>
+    TF-IDF 
+</h3>
+
 It `loses contextual information` and suffers from the data being incoherent and unstructured
 <img src="images/tf-idf.png"  height="250"/>
 
 <img src="images/cluster_table.png"  height="350"/>
 
-### LDA 
+<h3 style='text-align: center;'>
+    LDA 
+</h3> 
+
 The model says in what percentage each document talks about each topic
 <img src="images/LDA.png" /> 
 
-### BERT sentence embedding 
+<h3 style='text-align: center;'>
+    BERT sentence embedding 
+</h3> 
+
 Sentence embedding models (BERT) is used to `embed reviews into a vector space` where the vectors capture the `contextual meaning of sentences`. 
 <img src="images/clustering.png" />
 
-### `Topic modeling results`
+<h3 style='text-align: center;'>
+    <b>Topic modeling results</b>
+</h3>
+
 ![image](images/final_image.png)
 
 
