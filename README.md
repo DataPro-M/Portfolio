@@ -3,7 +3,10 @@ __An Aspiring Data Scientist__
 
 ## [Project 1: Student Plagiarism Detection](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day21)
 
-<img src="https://user-images.githubusercontent.com/79440491/142719095-89ebeebe-8689-4b3d-9ba3-291f0f7ab0cb.png"  height="350"/>
+<div style="text-align:center">    
+    <img src="images/plagiarism/plagiarism_2.png"  height="350"/>
+</div>
+
 
 
 To score ratings, this project ran student work through a language model that was trained on original text data.
@@ -38,7 +41,10 @@ _**Note:** The most difficult type of plagiarism to identify is `heavy answers`,
 
 ## [Project 2: Topic Modeling Task](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day14-19)
 
-<img src="images/recommended.png"  height="350"/>
+<div style="text-align:center">    
+    <img src="images/topic/recommended.png"  height="350"/>
+</div>
+
 
 <h3 style='text-align: center;'>
     Kaggle Steam Review Dataset
@@ -60,29 +66,29 @@ It includes 380,000 video game reviews from 46 of Steam's best-selling titles.
 </h3>
 
 It `loses contextual information` and suffers from the data being incoherent and unstructured
-<img src="images/tf-idf.png"  height="250"/>
+<img src="images/topic/tf-idf.png"  height="250"/>
 
-<img src="images/cluster_table.png"  height="350"/>
+<img src="images/topic/cluster_table.png"  height="350"/>
 
 <h3 style='text-align: center;'>
     LDA 
 </h3> 
 
 The model says in what percentage each document talks about each topic
-<img src="images/LDA.png" /> 
+<img src="images/topic/LDA.png" /> 
 
 <h3 style='text-align: center;'>
     BERT sentence embedding 
 </h3> 
 
 Sentence embedding models (BERT) is used to `embed reviews into a vector space` where the vectors capture the `contextual meaning of sentences`. 
-<img src="images/clustering.png" />
+<img src="images/topic/clustering.png" />
 
 <h3 style='text-align: center;'>
     <b>Topic modeling results</b>
 </h3>
 
-<img src="images/final_image.png" height="350"/>
+<img src="images/topic/final_image.png" height="350"/>
 
 
 
