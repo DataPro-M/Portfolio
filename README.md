@@ -42,7 +42,7 @@ _**Note:** The most difficult type of plagiarism to identify is `heavy answers`,
 ## [Project 2: Topic Modeling Task](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day14-19)
 
 <div style="text-align:center">    
-    <img src="images/topic/recommended.png"  height="350"/>
+    <img src="images/topic/recommended.png"  />
 </div>
 
 
