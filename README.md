@@ -99,7 +99,7 @@ Sentence embedding models (BERT) is used to `embed reviews into a vector space` 
 
 ## [Plagiarism detector app](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day27-29)
 
-ref: [https://towardsdatascience.com](https://towardsdatascience.com/build-a-plagiarism-checker-using-machine-learning-6538110ce162)
+
 
 A Python Flask application that searches for potentially plagiarised text using Pinecone, a similarity search engine. 
 
@@ -133,6 +133,8 @@ Even if you copy and paste one of the articles from the database, modify a few w
 <div style="text-align:center"> 
     <img src="images/plagiarism_app/Day_29.gif" height="400"/>  
 </div>
+
+resource: [https://towardsdatascience.com](https://towardsdatascience.com/build-a-plagiarism-checker-using-machine-learning-6538110ce162)
 
 
 
