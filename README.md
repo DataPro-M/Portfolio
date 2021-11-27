@@ -99,32 +99,41 @@ Sentence embedding models (BERT) is used to `embed reviews into a vector space` 
 
 ## [Plagiarism detector app](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day27-29)
 
-<div style="text-align:center">    
-    <img src="attachment:b172b437-324a-4509-8bbb-e5455fb3ba51.png"  />
-</div>
+ref: [https://towardsdatascience.com](https://towardsdatascience.com/build-a-plagiarism-checker-using-machine-learning-6538110ce162)
+
+A Python Flask application that searches for potentially plagiarised text using Pinecone, a similarity search engine. 
+
 
 <h3 style='text-align: center;'>
     Kaggle: dataset of news articles 
 </h3>
 
-We'll create a Python Flask application that searches for potentially plagiarised text using Pinecone, a similarity search engine. 
+<div style="text-align:center"> 
+    <img src="https://i.imgur.com/QDPtuEv.png" height="400"/>    
+    <a href="https://i.imgur.com/QDPtuEv.png">source</a>
+</div>
 
 
 The dataset consists of 143,000 news stories from 15 important publishers like: include the New York Times, Breitbart, CNN, Business Insider, the Atlantic, Fox News, Talking Points Memo, Buzzfeed News, and so on.
 We're just utilizing the first 20,000 of 143,000 news stories from 15 prominent publishers in this dataset.
 
+
  
 * **Python libraries used:** language-detector, symspellpy, pyLDAvis, sentence-transformers, gensim, sklearn
 * **Input:** Kaggle: dataset of news articles  
-* **Output:** 
+* **Output:** a table with the titles of matched articles as well as the confidence score. 
 
-
+The plagiarism tester is quite good at detecting "patch written" content!
+Even if you copy and paste one of the articles from the database, modify a few words here and there, and possibly erase a few lines or paragraphs, the match score will still be practically flawless! 
 
 <h3 style='text-align: center;'>
-    <b>Topic modeling results</b>
+    <b>Overview of the Demo App</b>
 </h3>
 
-<img src="images/plagiarism_app/Day_29.gif" height="400"/>
+<div style="text-align:center"> 
+    <img src="images/plagiarism_app/Day_29.gif" height="400"/>  
+</div>
+
 
 
 
