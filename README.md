@@ -97,11 +97,11 @@ Sentence embedding models (BERT) is used to `embed reviews into a vector space` 
 
 
 
-## [Plagiarism detector app](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day27-29)
+## [Article finder app](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day27-29)
 
 
 
-A Python Flask application that searches for potentially plagiarised text using Pinecone, a similarity search engine. 
+A Python Flask application that searches for articles based on text content using Pinecone, a similarity search engine. 
 
 
 <h3 style='text-align: center;'>
@@ -109,7 +109,7 @@ A Python Flask application that searches for potentially plagiarised text using 
 </h3>
 
 <div style="text-align:center"> 
-    <img src="images/plagiarism_app/kaggle_news.png" height="400"/>    
+    <img src="images/article_finder/kaggle_news.png" height="400"/>    
     <a href="https://i.imgur.com/QDPtuEv.png">source</a>
 </div>
 
@@ -123,7 +123,7 @@ We're just utilizing the first 20,000 of 143,000 news stories from 15 prominent 
 * **Input:** Kaggle: dataset of news articles  
 * **Output:** a table with the titles of matched articles as well as the confidence score. 
 
-The plagiarism tester is quite good at detecting "patch written" content!
+The article finder is quite good at detecting "patch written" content!
 Even if you copy and paste one of the articles from the database, modify a few words here and there, and possibly erase a few lines or paragraphs, the match score will still be practically flawless! 
 
 <h3 style='text-align: center;'>
@@ -131,10 +131,9 @@ Even if you copy and paste one of the articles from the database, modify a few w
 </h3>
 
 <div style="text-align:center"> 
-    <img src="images/plagiarism_app/Day_29.gif" height="400"/>  
+    <img src="images/article_finder/Day_29.gif" height="450"/>  
 </div>
 
-resource: [https://towardsdatascience.com](https://towardsdatascience.com/build-a-plagiarism-checker-using-machine-learning-6538110ce162)
 
 
 
