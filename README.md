@@ -118,34 +118,13 @@ We're just utilizing the first 20,000 of 143,000 news stories from 15 prominent 
 * **Input:** Kaggle: dataset of news articles  
 * **Output:** 
 
-<h3 style='text-align: center;'>
-    TF-IDF 
-</h3>
 
-It `loses contextual information` and suffers from the data being incoherent and unstructured
-<img src="images/topic/tf-idf.png"  height="250"/>
-
-<img src="images/topic/cluster_table.png"  height="350"/>
-
-<h3 style='text-align: center;'>
-    LDA 
-</h3> 
-
-The model says in what percentage each document talks about each topic
-<img src="images/topic/LDA.png" /> 
-
-<h3 style='text-align: center;'>
-    BERT sentence embedding 
-</h3> 
-
-Sentence embedding models (BERT) is used to `embed reviews into a vector space` where the vectors capture the `contextual meaning of sentences`. 
-<img src="images/topic/clustering.png" />
 
 <h3 style='text-align: center;'>
     <b>Topic modeling results</b>
 </h3>
 
-<img src="images/topic/final_image.png" height="300"/>
+<img src="images/plagiarism_app/Day_29.gif" height="400"/>
 
 
 
