@@ -92,7 +92,60 @@ Sentence embedding models (BERT) is used to `embed reviews into a vector space` 
     <b>Topic modeling results</b>
 </h3>
 
-<img src="images/topic/final_image.png" height="350"/>
+<img src="images/topic/final_image.png" height="300"/>
+
+
+
+
+## [Plagiarism detector app](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day27-29)
+
+<div style="text-align:center">    
+    <img src="attachment:b172b437-324a-4509-8bbb-e5455fb3ba51.png"  />
+</div>
+
+<h3 style='text-align: center;'>
+    Kaggle: dataset of news articles 
+</h3>
+
+We'll create a Python Flask application that searches for potentially plagiarised text using Pinecone, a similarity search engine. 
+
+
+The dataset consists of 143,000 news stories from 15 important publishers like: include the New York Times, Breitbart, CNN, Business Insider, the Atlantic, Fox News, Talking Points Memo, Buzzfeed News, and so on.
+We're just utilizing the first 20,000 of 143,000 news stories from 15 prominent publishers in this dataset.
+
+ 
+* **Python libraries used:** language-detector, symspellpy, pyLDAvis, sentence-transformers, gensim, sklearn
+* **Input:** Kaggle: dataset of news articles  
+* **Output:** 
+
+<h3 style='text-align: center;'>
+    TF-IDF 
+</h3>
+
+It `loses contextual information` and suffers from the data being incoherent and unstructured
+<img src="images/topic/tf-idf.png"  height="250"/>
+
+<img src="images/topic/cluster_table.png"  height="350"/>
+
+<h3 style='text-align: center;'>
+    LDA 
+</h3> 
+
+The model says in what percentage each document talks about each topic
+<img src="images/topic/LDA.png" /> 
+
+<h3 style='text-align: center;'>
+    BERT sentence embedding 
+</h3> 
+
+Sentence embedding models (BERT) is used to `embed reviews into a vector space` where the vectors capture the `contextual meaning of sentences`. 
+<img src="images/topic/clustering.png" />
+
+<h3 style='text-align: center;'>
+    <b>Topic modeling results</b>
+</h3>
+
+<img src="images/topic/final_image.png" height="300"/>
 
 
 
