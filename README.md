@@ -109,7 +109,7 @@ A Python Flask application that searches for potentially plagiarised text using 
 </h3>
 
 <div style="text-align:center"> 
-    <img src="https://i.imgur.com/QDPtuEv.png" height="400"/>    
+    <img src="images/plagiarism_app/kaggle_news.png" height="400"/>    
     <a href="https://i.imgur.com/QDPtuEv.png">source</a>
 </div>
 
