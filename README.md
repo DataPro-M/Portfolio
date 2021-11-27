@@ -119,7 +119,7 @@ We're just utilizing the first 20,000 of 143,000 news stories from 15 prominent 
 
 
  
-* **Python libraries used:** language-detector, symspellpy, pyLDAvis, sentence-transformers, gensim, sklearn
+* **Python libraries used:** sentence_transformers, pandas, numpy, flask, pinecone
 * **Input:** Kaggle: dataset of news articles  
 * **Output:** a table with the titles of matched articles as well as the confidence score. 
 
