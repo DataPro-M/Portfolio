@@ -97,7 +97,7 @@ Sentence embedding models (BERT) is used to `embed reviews into a vector space` 
 
 
 
-## [Article finder app](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day27-29)
+## [Project 3: Article finder app](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day27-29)
 
 
 
