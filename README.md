@@ -4,7 +4,7 @@ __An Aspiring Data Scientist__
 ***
 
 
-## [Project 1: Student Plagiarism Detection](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day21)
+# [Project 1: Student Plagiarism Detection](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day21)
 
 <div style="text-align:center">    
     <img src="images/plagiarism/plagiarism_2.png"  height="350"/>
@@ -43,7 +43,7 @@ _**Note:** The most difficult type of plagiarism to identify is `heavy answers`,
 *** 
 
 
-## [Project 2: Topic Modeling Task](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day14-19)
+# [Project 2: Topic Modeling Task](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day14-19)
 
 <div style="text-align:center">    
     <img src="images/topic/recommended.png"  />
@@ -97,7 +97,7 @@ Sentence embedding models (BERT) is used to `embed reviews into a vector space` 
 
 ***
 
-## [Project 3: Article finder app](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day27-29)
+# [Project 3: Article finder app](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day27-29)
 
 
 
